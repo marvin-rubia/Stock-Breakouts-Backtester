@@ -22,4 +22,5 @@ NOTE: The number of holding days is a maximum of 10 days. The Buy Price is the C
 ## Stock Breakout Example:
 In trading, a breakout is a signal for buying. Strong price and volume actions accompany a breakout candle. Look at the following example of a breakout setup for AAPL in November 2021.
 
-![image](https://github.com/marvin-rubia/Stock-Breakouts-Backtester/assets/140475770/7671d3b0-a95a-4730-bf08-0e39ee9c4ba5)
+![image](https://github.com/marvin-rubia/Stock-Breakouts-Backtester/assets/140475770/11ad8f40-980b-4237-88f7-59b2095e8e9e)
+
