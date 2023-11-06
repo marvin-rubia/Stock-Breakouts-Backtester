@@ -24,3 +24,6 @@ In trading, a breakout is a signal for buying. Strong price and volume actions a
 
 ![image](https://github.com/marvin-rubia/Stock-Breakouts-Backtester/assets/140475770/11ad8f40-980b-4237-88f7-59b2095e8e9e)
 
+## I wrote a blog about this
+If you want to understand my thought processes for developing the function, read my article here: [Coding a Backtester for Stock Breakouts in Python](https://python.plainenglish.io/coding-a-backtester-for-stock-breakouts-in-python-a21dc61c81ff).
+
