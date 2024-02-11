@@ -1,5 +1,5 @@
 # Python Backtester for Stock Breakouts
-The Colab Notebook contains the function I developed for coding the profitability of breakout setups for a given stock in its entire history. Yahoo Finance is the source of the stock data, which were scraped using the `yahoo-fin` open-source library. The function's output is a histogram of the breakout profits and some trading probabilities. 
+The Colab Notebook contains the function I developed for coding the profitability of breakout setups for a given stock in its entire history. Yahoo Finance is the source of the stock data, which were scraped using the `yahoo-fin` open-source library. The function's output is a histogram of the breakout profits and some trading probabilities that can be used to calculate **expected profit**.
 
 ## Sample Output
 Using my `breakout_profitability(ticker)` function, here is the output for Apple Inc. (ticker = AAPL):
